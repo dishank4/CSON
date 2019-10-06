@@ -1,0 +1,26 @@
+.side-bar {
+width: 19%;
+border: 1px solid #000;
+display: inline-block;
+min-height: 1000px;
+float: left;
+}
+
+.main-wrapper {
+    width:80%;
+    float: left;
+}
+
+.header , .footer {
+    height:40px;
+    width: 100%;
+    border: 1px solid #000;
+}
+
+.main-div{
+    min-height: 917px
+}
+
+.cson-page {
+    width: 100%;
+}

@@ -1,0 +1,22 @@
+<div class="cson-page">
+  <div class="side-bar">
+    <ul class="left-side-bar-list">
+      <li *ngFor="let step of stepData|keyvalue" (click)="loadStep(step.key, $event)"
+        class="item">
+        <span>{{ step.value.id}}</span>
+        <span>{{ step.value.displayName }}</span>
+      </li>
+    </ul>
+  </div>
+  <div class="main-wrapper">
+    <div class="header">
+      <app-header></app-header>
+    </div>
+    <div #stepsProcess>
+      
+    </div>
+    <div class="footer">
+    <app-footer></app-footer>
+    </div>
+  </div>
+</div>

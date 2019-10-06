@@ -1,0 +1,53 @@
+
+{
+    "sections" : {
+        "generalInfo":{
+            "id":1,
+            "displayName" : "General Information",
+            "title":"",
+            "subSection":[]
+        },
+        "integration":{
+            "id":2,
+            "displayName" : "Integration",
+            "title":"",
+            "subSection":[]
+        },
+        "signon":{
+            "id":3,
+            "displayName" : "Sign-On",
+            "title":"",
+            "subSection":[]
+        },        
+        "rostering":{
+            "id":4,
+            "displayName" : "Rostering",
+            "title":"",
+            "subSection":[]
+        },
+        "security":{
+            "id":5,
+            "displayName" : "Security",
+            "title":"",
+            "subSection":[]
+        },
+        "training":{
+            "id":6,
+            "displayName" : "Training",
+            "title":"",
+            "subSection":[]
+        },
+        "warpUp":{
+            "id":7,
+            "displayName" : "Warp-Up",
+            "title":"",
+            "subSection":[]
+        },
+        "total":{
+            "id":8,
+            "displayName" : "total",
+            "title":"",
+            "subSection":[]
+        }
+    }
+}

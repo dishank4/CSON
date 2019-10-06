@@ -1,0 +1,23 @@
+{
+  "login": {
+    "token": "ABCD1234",
+    "userInfo": { "firstName": "Dhanraj", "lastName": "Nair" },
+    "accessPermission": [
+      { "routeName": "candidate", "isView": true, "isModified": true },
+      { "routeName": "candidateList", "isView": true, "isModified": false }
+    ],
+    "localization": {
+      "fieldvalue": {
+        "candidateList": "Candidate List",
+        "candidateRegList": "Candidate Reg List"
+      },
+      "langualgeId": 4,
+      "language": "en-US",
+      "timeZone": "pst"
+    },
+    "error":{
+      "msg":""
+    },
+    "code":200
+  }
+}
